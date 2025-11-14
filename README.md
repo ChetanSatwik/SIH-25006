@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 07-10-2025
+## Reference Number: 212224240100
+## Name: N V Chetan Satwik
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
